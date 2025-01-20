@@ -1,0 +1,160 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\humbe\\Desktop\\projetos\\CleanArchitecture\\CleanArchitecture\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{B71D0989-D385-4525-BD3D-710E1E54DE97}|Infra\\Infra.csproj|c:\\users\\humbe\\desktop\\projetos\\cleanarchitecture\\cleanarchitecture\\infra\\context\\appdbcontextfactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B71D0989-D385-4525-BD3D-710E1E54DE97}|Infra\\Infra.csproj|solutionrelative:infra\\context\\appdbcontextfactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F41270E3-F5F7-4CBC-BF20-6C45AEF16F9F}|API\\API.csproj|c:\\users\\humbe\\desktop\\projetos\\cleanarchitecture\\cleanarchitecture\\api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{F41270E3-F5F7-4CBC-BF20-6C45AEF16F9F}|API\\API.csproj|solutionrelative:api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B71D0989-D385-4525-BD3D-710E1E54DE97}|Infra\\Infra.csproj|c:\\users\\humbe\\desktop\\projetos\\cleanarchitecture\\cleanarchitecture\\infra\\context\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B71D0989-D385-4525-BD3D-710E1E54DE97}|Infra\\Infra.csproj|solutionrelative:infra\\context\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B71D0989-D385-4525-BD3D-710E1E54DE97}|Infra\\Infra.csproj|c:\\users\\humbe\\desktop\\projetos\\cleanarchitecture\\cleanarchitecture\\infra\\infra.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{B71D0989-D385-4525-BD3D-710E1E54DE97}|Infra\\Infra.csproj|solutionrelative:infra\\infra.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F41270E3-F5F7-4CBC-BF20-6C45AEF16F9F}|API\\API.csproj|c:\\users\\humbe\\desktop\\projetos\\cleanarchitecture\\cleanarchitecture\\api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F41270E3-F5F7-4CBC-BF20-6C45AEF16F9F}|API\\API.csproj|solutionrelative:api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F41270E3-F5F7-4CBC-BF20-6C45AEF16F9F}|API\\API.csproj|c:\\users\\humbe\\desktop\\projetos\\cleanarchitecture\\cleanarchitecture\\api\\controller\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F41270E3-F5F7-4CBC-BF20-6C45AEF16F9F}|API\\API.csproj|solutionrelative:api\\controller\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B71D0989-D385-4525-BD3D-710E1E54DE97}|Infra\\Infra.csproj|c:\\users\\humbe\\desktop\\projetos\\cleanarchitecture\\cleanarchitecture\\infra\\repositories\\unitofwork.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B71D0989-D385-4525-BD3D-710E1E54DE97}|Infra\\Infra.csproj|solutionrelative:infra\\repositories\\unitofwork.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B71D0989-D385-4525-BD3D-710E1E54DE97}|Infra\\Infra.csproj|c:\\users\\humbe\\desktop\\projetos\\cleanarchitecture\\cleanarchitecture\\infra\\repositories\\userrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B71D0989-D385-4525-BD3D-710E1E54DE97}|Infra\\Infra.csproj|solutionrelative:infra\\repositories\\userrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "AppDbContextFactory.cs",
+              "DocumentMoniker": "C:\\Users\\humbe\\Desktop\\projetos\\CleanArchitecture\\CleanArchitecture\\Infra\\Context\\AppDbContextFactory.cs",
+              "RelativeDocumentMoniker": "Infra\\Context\\AppDbContextFactory.cs",
+              "ToolTip": "C:\\Users\\humbe\\Desktop\\projetos\\CleanArchitecture\\CleanArchitecture\\Infra\\Context\\AppDbContextFactory.cs",
+              "RelativeToolTip": "Infra\\Context\\AppDbContextFactory.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-20T23:34:44.22Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\humbe\\Desktop\\projetos\\CleanArchitecture\\CleanArchitecture\\API\\Program.cs",
+              "RelativeDocumentMoniker": "API\\Program.cs",
+              "ToolTip": "C:\\Users\\humbe\\Desktop\\projetos\\CleanArchitecture\\CleanArchitecture\\API\\Program.cs",
+              "RelativeToolTip": "API\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAABNAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-20T23:21:33.508Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\humbe\\Desktop\\projetos\\CleanArchitecture\\CleanArchitecture\\API\\appsettings.json",
+              "RelativeDocumentMoniker": "API\\appsettings.json",
+              "ToolTip": "C:\\Users\\humbe\\Desktop\\projetos\\CleanArchitecture\\CleanArchitecture\\API\\appsettings.json",
+              "RelativeToolTip": "API\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAB5AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-01-20T23:20:53.907Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Infra",
+              "DocumentMoniker": "C:\\Users\\humbe\\Desktop\\projetos\\CleanArchitecture\\CleanArchitecture\\Infra\\Infra.csproj",
+              "RelativeDocumentMoniker": "Infra\\Infra.csproj",
+              "ToolTip": "C:\\Users\\humbe\\Desktop\\projetos\\CleanArchitecture\\CleanArchitecture\\Infra\\Infra.csproj*",
+              "RelativeToolTip": "Infra\\Infra.csproj*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAABTAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-01-20T23:15:34.554Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "AppDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\humbe\\Desktop\\projetos\\CleanArchitecture\\CleanArchitecture\\Infra\\Context\\AppDbContext.cs",
+              "RelativeDocumentMoniker": "Infra\\Context\\AppDbContext.cs",
+              "ToolTip": "C:\\Users\\humbe\\Desktop\\projetos\\CleanArchitecture\\CleanArchitecture\\Infra\\Context\\AppDbContext.cs",
+              "RelativeToolTip": "Infra\\Context\\AppDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAABTAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-20T22:56:25.394Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "UnitOfWork.cs",
+              "DocumentMoniker": "C:\\Users\\humbe\\Desktop\\projetos\\CleanArchitecture\\CleanArchitecture\\Infra\\Repositories\\UnitOfWork.cs",
+              "RelativeDocumentMoniker": "Infra\\Repositories\\UnitOfWork.cs",
+              "ToolTip": "C:\\Users\\humbe\\Desktop\\projetos\\CleanArchitecture\\CleanArchitecture\\Infra\\Repositories\\UnitOfWork.cs",
+              "RelativeToolTip": "Infra\\Repositories\\UnitOfWork.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-20T22:50:15.56Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "UserRepository.cs",
+              "DocumentMoniker": "C:\\Users\\humbe\\Desktop\\projetos\\CleanArchitecture\\CleanArchitecture\\Infra\\Repositories\\UserRepository.cs",
+              "RelativeDocumentMoniker": "Infra\\Repositories\\UserRepository.cs",
+              "ToolTip": "C:\\Users\\humbe\\Desktop\\projetos\\CleanArchitecture\\CleanArchitecture\\Infra\\Repositories\\UserRepository.cs",
+              "RelativeToolTip": "Infra\\Repositories\\UserRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-20T22:50:09.394Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "UserController.cs",
+              "DocumentMoniker": "C:\\Users\\humbe\\Desktop\\projetos\\CleanArchitecture\\CleanArchitecture\\API\\Controller\\UserController.cs",
+              "RelativeDocumentMoniker": "API\\Controller\\UserController.cs",
+              "ToolTip": "C:\\Users\\humbe\\Desktop\\projetos\\CleanArchitecture\\CleanArchitecture\\API\\Controller\\UserController.cs",
+              "RelativeToolTip": "API\\Controller\\UserController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABkAAAAxAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-20T11:57:27.876Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
