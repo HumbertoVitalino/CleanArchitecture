@@ -7,10 +7,8 @@
   </PropertyGroup>
 
   <ItemGroup>
-    <Folder Include="Services\" />
     <Folder Include="Shared\Behavior\" />
     <Folder Include="Shared\Exceptions\" />
-    <Folder Include="UseCases\CreateUser\" />
     <Folder Include="UseCases\DeleteUser\" />
     <Folder Include="UseCases\GetAllUser\" />
     <Folder Include="UseCases\UpdateUser\" />
@@ -20,6 +18,7 @@
     <PackageReference Include="AutoMapper.Extensions.Microsoft.DependencyInjection" Version="12.0.1" />
     <PackageReference Include="FluentValidation.DependencyInjectionExtensions" Version="11.11.0" />
     <PackageReference Include="MediatR" Version="12.4.1" />
+    <PackageReference Include="Microsoft.Extensions.Configuration.Json" Version="9.0.1" />
   </ItemGroup>
 
 </Project>
